@@ -1,3 +1,5 @@
+⚠️ Note: this is a fork of https://ValentinH.github.io/react-easy-crop
+
 # react-easy-crop
 
 A React component to crop images/videos with easy interactions
